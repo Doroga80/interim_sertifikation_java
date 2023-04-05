@@ -8,7 +8,6 @@ import java.util.Scanner;
 
 
 public class ToyStore {
-    private static final Scanner scanner = new Scanner(System.in,"CP866");
     private List<Toy> toys;
     private Random random;
 
